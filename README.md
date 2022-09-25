@@ -12,5 +12,10 @@ To use the search fields, simply type the desired filter into the filter box of 
 
 ## Summary
 
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+One drawback of the filter boxes is that you can only filter by one thing at a time. Two suggestions for further improvement include:
+
+  1. Allow for multiple fields to be entered at the same time.
+  2. Allow for multiple entries in one field to be entered at the same time. 
+
+This would allow you to filter by two countries or two states at a time. Or specify all fields.
 
