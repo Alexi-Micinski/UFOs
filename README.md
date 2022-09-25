@@ -2,7 +2,7 @@
 
 ## Overview
 
-Explain the purpose of this analysis.
+Updated a webpage and created a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, filters were added for the city, state, country, and shape.
 
 ## Results
 
